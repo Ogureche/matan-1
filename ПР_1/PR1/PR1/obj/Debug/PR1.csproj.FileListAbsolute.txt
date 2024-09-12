@@ -1,0 +1,10 @@
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\bin\Debug\PR1.exe.config
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\bin\Debug\PR1.exe
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\bin\Debug\PR1.pdb
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\obj\Debug\PR1.csproj.AssemblyReference.cache
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\obj\Debug\PR1.Form1.resources
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\obj\Debug\PR1.Properties.Resources.resources
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\obj\Debug\PR1.csproj.GenerateResource.cache
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\obj\Debug\PR1.csproj.CoreCompileInputs.cache
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\obj\Debug\PR1.exe
+C:\Users\ogure\OneDrive\Рабочий стол\уник\3 курс\МдП\ПР_1\PR1\PR1\obj\Debug\PR1.pdb
